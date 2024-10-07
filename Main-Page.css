@@ -1,0 +1,24 @@
+top-of-page {
+    color: #1b1b1b;
+    font-family: Helvetica;
+    text-align: center;
+    font-weight: solid;
+}
+
+body {
+    color: #444343;
+}
+
+image-1 {
+    text-align: left;
+}
+
+intro-para {
+    text-align: right;
+    color: #ffffff;
+}
+
+h2 {
+    text-align: center;
+    color: #ffffff;
+}
